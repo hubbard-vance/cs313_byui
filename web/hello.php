@@ -1,4 +1,4 @@
 <?php 
- $outscript "Hello World";
+ $outscript="Hello World";
  include 'hello.html';
  ?> 
