@@ -1,5 +1,6 @@
 <?php
 
-  phpinfo();
+$value = 4 + “cat”;
+print $value;
 
 ?>
