@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+html {
+	font-size: 16e;
+}
+body {
+	background-color: lightgrey;
+	font-family: 'Muli', sans-serif;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 5px;
+	margin-bottom: auto;
+}
+
+.w3-container{
+	background-color: lightblue;
+}
+
+img {
+	display: block;
+    margin: auto;
+    width: 25%;
+	height: auto;
+}
+
+button {
+	background-color: darkgrey;
+	border: 1px solid;
+	border-color: white;
+} 
