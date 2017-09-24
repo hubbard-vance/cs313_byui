@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 body {background-color: powderblue;}
 h1   {color: blue;}
@@ -22,3 +23,29 @@ button {
 	border-color: purple;
 	
 }
+=======
+
+body {background-color: powderblue;}
+h1   {color: blue;}
+
+
+div.Team2Divs {
+    background-color: lightgrey;
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+div.Team2Divs:hover {
+    background-color: black;
+    color: yellow;
+	font-weight: bold;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+
+button {
+	border-style: double; 
+	border-color: purple;
+	
+}
+>>>>>>> 5365a0b5f6cab4b5c0ebe1347332843d60338db3
